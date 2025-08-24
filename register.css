@@ -1,6 +1,6 @@
 body {
   font-family: Arial, sans-serif;
-  background: #f2f2f2;
+  background: white;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -17,7 +17,7 @@ body {
 
 h2 {
   text-align: center;
-  color: #e63946;
+  color: blue;
 }
 
 label {
@@ -38,7 +38,7 @@ button {
   width: 100%;
   margin-top: 15px;
   padding: 10px;
-  background: #e63946;
+  background: blue;
   color: white;
   border: none;
   border-radius: 5px;
@@ -46,7 +46,7 @@ button {
 }
 
 button:hover {
-  background: #d62828;
+  background: blue;
 }
 
 p {
